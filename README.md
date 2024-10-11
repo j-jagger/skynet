@@ -1,2 +1,2 @@
 # skynet
-Python-based smarthome system
+python-based smarthome system
