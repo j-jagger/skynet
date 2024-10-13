@@ -1,0 +1,17 @@
+{
+    "branch": "skn-serv-v1.0.1-PR",
+    "serverid": "kXWVJUqVoefARClntxJBDAlOryedzSPHIOGRHYHfKYgfzVRajFESnOkALirAMEcJEDTniABpQncEruLf",
+    "clients": {
+        "client_example": {
+            "hostname": "example",
+            "localip": "192.168.1.1",
+            "nodetype": "generic"
+        },
+        "DESKTOP-24HF2IN": {
+            "hostname": "DESKTOP-24HF2IN",
+            "localip": "127.0.0.1",
+            "nodetype": "generic",
+            "clientid": "ScFOuXTxdQqIZwIQpGSX"
+        }
+    }
+}
